@@ -9,3 +9,5 @@ src = "src"
 [output.html]
 curly-quotes = true
 input-404 = "not-found.md"
+# Uncommenthing this line can make writing easier
+additional-js = ["watch.js"]

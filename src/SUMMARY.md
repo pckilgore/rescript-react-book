@@ -14,5 +14,5 @@ sub-page that cannot be searched via browser find.
 - [Getting Started](./getting-started.md)
   - [Installation](./installation.md)
   - [Hello World!](./helloworld.md)
-- [A Guessing Game](./tik-tak.md)
+- [A Guessing Game](./guessing-game.md)
 
