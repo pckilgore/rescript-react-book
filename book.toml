@@ -1,0 +1,11 @@
+[book]
+title = "Rescript React Book"
+authors = ["Patrick C. Kilgore"]
+description = "The Opinionated Guide to Safe, Simple React Application Development with Rescript"
+language = "en"
+multilingual = false
+src = "src"
+
+[output.html]
+curly-quotes = true
+input-404 = "not-found.md"

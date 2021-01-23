@@ -1,0 +1,11 @@
+{
+  "name": "@pckilgore/book",
+  "description": "Tooling helpers.",
+  "version": "1.0.0",
+  "license": "UNLICENSED",
+  "scripts": {
+    "build": "mdbook build",
+    "preview": "mdbook build --open",
+    "watch": "mdbook watch --open"
+  }
+}
