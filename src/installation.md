@@ -222,3 +222,5 @@ those for us. We're now ready to write an introductory ReScript project.
 
 <!-- TODO: Shortcut -->
 
+<!-- vim:spelllang=en:spell!:fo=aw2tq
+-
